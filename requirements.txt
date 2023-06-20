@@ -1,4 +1,4 @@
-hydra_core
+hydra_core==1.3.2
 hydra_colorlog
 julius
 numpy
