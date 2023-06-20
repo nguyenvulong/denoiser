@@ -1,5 +1,6 @@
-# Real Time Speech Enhancement in the Waveform Domain (Interspeech 2020)
-
+## Real Time Speech Enhancement in the Waveform Domain (Interspeech 2020)
+## I relaxed the package versions so that they can work with [my other project](https://github.com/nguyenvulong/audio_preprocess)
+## For some reason I did not fork the original repo but created a new one. Make sure to checkout [the license](https://github.com/nguyenvulong/denoiser/blob/main/LICENSE).
 ![tests badge](https://github.com/facebookresearch/denoiser/workflows/tests/badge.svg)
 
 We provide a [PyTorch][pytorch] implementation of the paper: [Real Time Speech Enhancement in the Waveform Domain][arxiv].
